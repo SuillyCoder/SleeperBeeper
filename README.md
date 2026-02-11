@@ -46,12 +46,12 @@ python -m PyInstaller --onefile --windowed --name "SleeperBeeper" --hidden-impor
 <h3>Step 4: Locate Your Executable</h3>
 <p>Once the build completes, navigate to the <code>dist</code> folder in your project directory:</p>
 
-<img width="1383" height="350" alt="image" src="https://github.com/user-attachments/assets/5c8b808d-e0f2-4812-a1a5-046aabb3337a" />
+<img width="1383" height="350" alt="image" src="https://github.com/user-attachments/assets/5c8b808d-e0f2-4812-a1a5-046aabb3337a" style="width: 45%;"/>
 
 <h3>Step 5: Run SleeperBeeper! 🎉</h3>
 <p>Double-click <code>SleeperBeeper.exe</code> to launch the application.</p>
 
-<img width="977" height="860" alt="image" src="https://github.com/user-attachments/assets/ecd73821-3d48-4829-81d3-c6242c7161e0" />
+<img width="977" height="860" alt="image" src="https://github.com/user-attachments/assets/ecd73821-3d48-4829-81d3-c6242c7161e0" style="width: 45%;"/>
 
 <h3>🐍 Alternative: Run Directly with Python</h3>
 <p>If you don't want to build an executable, you can run the program directly:</p>
