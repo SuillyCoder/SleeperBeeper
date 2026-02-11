@@ -24,16 +24,6 @@
 
 <h5>You can actually run your own version, but since .exe file is so big, it's not here. Additionally, there are a few steps to follow if you REALLY wanna go ahead and execute it. Here's how to create it and have your own version running: </h5>
 
-<h2>🚀 Building Your Own Executable</h2>
-<h5>The .exe file is too large to include in this repository, but you can easily build your own! Follow these steps:</h5>
-
-<h3>Prerequisites</h3>
-<ul>
-  <li><strong>Python 3.8+</strong> installed on your system</li>
-  <li><strong>Webcam</strong> (built-in or external)</li>
-  <li><strong>Windows OS</strong> (for .exe; other platforms can run the Python script directly)</li>
-</ul>
-
 <h3>Step 1: Clone the Repository</h3>
 ```bash
 git clone https://github.com/SuillyCoder/SleeperBeeper.git
