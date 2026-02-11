@@ -3,9 +3,9 @@
 <h3>This is a local application that uses CV to tell if you're sleeping and wakes you up if it does.</h3>
 
 <div style="display: flex-; justify-content: space-around;">
-  <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/5966ff3b-a1fe-47ff-b448-a4e1587d8eea" />
-  <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/4d33e459-3f2e-45dc-aec5-dd1a12e508d8" />
-  <img width="1814" height="1037" alt="image" src="https://github.com/user-attachments/assets/5fd2df5e-cf70-48a2-bb54-990586d76a1c" />
+  <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/5966ff3b-a1fe-47ff-b448-a4e1587d8eea" style="width: 30%;"/>
+  <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/4d33e459-3f2e-45dc-aec5-dd1a12e508d8" style="width: 30%;"/>
+  <img width="1814" height="1037" alt="image" src="https://github.com/user-attachments/assets/5fd2df5e-cf70-48a2-bb54-990586d76a1c" style="width: 30%;"/>
 </div>
 
 <h3>I tend to doze off a lot (I really need proper rest lmao). But, while I need to be on the job, I need to stay awake.</h3>
