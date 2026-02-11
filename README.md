@@ -1,6 +1,6 @@
 <h1>Sleeper-Beeper</h1>
 
-<h3>This is a local application that uses CV to tell if you're sleeping and wakes you up if it does.</h3>
+<h5>This is a local application that uses CV to tell if you're sleeping and wakes you up if it does.</h5>
 
 <div style="display: flex-; justify-content: space-around;">
   <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/5966ff3b-a1fe-47ff-b448-a4e1587d8eea" style="width: 30%;"/>
@@ -27,7 +27,7 @@
 
 <h3>To create an exe file, open this in Python, and run: </h3>
 
-python -m PyInstaller --onefile --name "SleeperBeeper" --hidden-import=cv2 --hidden-import=numpy --hidden-import=mediapipe --collect-all mediapipe --add-data "Alarm.mp3;." --add-data "face_landmarker.task;." --add-data "haarcascade_frontalface_default.xml;." SleeperBeeper.py
+python -m PyInstaller --onefile --windowed --name "SleeperBeeper" --hidden-import=cv2 --hidden-import=numpy --hidden-import=mediapipe --collect-all mediapipe --add-data "Alarm.mp3;." --add-data "face_landmarker.task;." --add-data "haarcascade_frontalface_default.xml;." SleeperBeeper.py
 
 <h3>Once this is done, navigate to the 'dist' folder, and find your exe file there.</h3>
 
