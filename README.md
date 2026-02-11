@@ -10,7 +10,7 @@
 
 <h5>Third year tends to get pretty tiring, and from that tiredness, I tend to doze off. A lot (I really need proper rest lmao). The work is demanding, and I can't afford to doze off on the job as easily as I want to. I have to find ways to keep myself awake just for a little longer, and that's where the idea for this app came in:.</h5>
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a5839fc8-7934-46d2-9b26-60a9079aa913" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a5839fc8-7934-46d2-9b26-60a9079aa913" style="width: 50%;"/>
 
 <h5>As mentioned, this Python-based program uses computer vision and a lot of other libraries in order to detect my face, the state of my eyes, and blare out an alarm. Specifically, this program was made with the following:</h5>
 <ul>
@@ -46,7 +46,7 @@ python -m PyInstaller --onefile --windowed --name "SleeperBeeper" --hidden-impor
 <h3>Step 4: Locate Your Executable</h3>
 <p>Once the build completes, navigate to the <code>dist</code> folder in your project directory:</p>
 
-<img width="1383" height="350" alt="image" src="https://github.com/user-attachments/assets/5c8b808d-e0f2-4812-a1a5-046aabb3337a" style="width: 45%;"/>
+<img width="1383" height="350" alt="image" src="https://github.com/user-attachments/assets/5c8b808d-e0f2-4812-a1a5-046aabb3337a"/>
 
 <h3>Step 5: Run SleeperBeeper! 🎉</h3>
 <p>Double-click <code>SleeperBeeper.exe</code> to launch the application.</p>
